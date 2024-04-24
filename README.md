@@ -21,7 +21,7 @@ Antes de executar o notebook, certifique-se de que as seguintes bibliotecas Pyth
 
 Você pode instalar todas as dependências necessárias usando o seguinte comando:
 
-```bash
+
 pip install nltk pandas openpyxl pdfminer.six pyphen
 
 ## Configuração
