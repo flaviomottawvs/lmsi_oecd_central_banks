@@ -36,12 +36,13 @@ pip install nltk pandas openpyxl pdfminer.six pyphen
 
 
 ## Estrutura de Diretórios
-
+```
 /LMSI_OCDE_ALL_COUNTRIES
 │
 ├── PAISES_OCDE/          # Diretório contendo os PDFs para análise
 └── LMSI_excel.ipynb     # Jupyter Notebook principal
 
+```
 
 ## Licença
 
