@@ -1,6 +1,6 @@
 # LMSI_OCDE_ALL_COUNTRIES
 
-Este repositório contém um Jupyter Notebook para a análise automática de sentimentos e cálculo de índices de legibilidade de minutas de decisões de política monetária, especificamente direcionado para minutas de países da OCDE. O notebook extrai o texto dos documentos em PDF, realiza uma análise de sentimentos usando o dicionário de sentimentos Loughran-McDonald, e calcula o índice de legibilidade Flesch-Kincaid, agrupando os resultados em um único arquivo Excel. 
+Este repositório contém um conjunto de códigos, elaborados no Jupyter Notebook, para a análise automática de indicadoree de sentimentos e cálculo de índices de legibilidade das minutas de decisões de política monetária de um conjunto de Bancos Centrais dos países da OCDE. O notebook extrai o texto dos documentos em PDF, realiza uma análise de sentimentos usando o dicionário de sentimentos Loughran-McDonald, e calcula o índice de legibilidade Flesch-Kincaid, agrupando os resultados em um único arquivo Excel. 
 
 ## Funcionalidades
 
@@ -48,5 +48,13 @@ pip install nltk pandas openpyxl pdfminer.six pyphen
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
 
+## Autoria e financiamento
 
+Esse código foi elaborado no âmbito do Grupo de Pesquisa de Comunicação das Autoridades e Instituições Econômicas, da Universidade Católica de Petrópolis, com financiamento, via bolsa de iniciação científica, pelo CNPq. Os autores deste trabalho são:
+
+Flávio Motta - Aluno do curso de bacharelado em Administração da Univerisdade Católica de Petrólis e Bolsista de Iniciação Científica do CNPq.
+
+Rodolfo Nicolay - Professor do Mestrado Profissional em Gestão de Projetos em Engenharia da Universidade Católica de Petrópolis e Coordenador do grupo de pesquisa. 
+
+Matheus Alvim - Aluno do curso de bacharelado em Economia e pesquisador voluntário do grupo de pesquisa. 
 
