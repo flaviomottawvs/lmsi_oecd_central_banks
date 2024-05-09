@@ -52,9 +52,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md par
 
 Esse código foi elaborado no âmbito do Grupo de Pesquisa de Comunicação das Autoridades e Instituições Econômicas, da Universidade Católica de Petrópolis, com financiamento, via bolsa de iniciação científica, pelo CNPq. Os autores deste trabalho são:
 
-Flávio Motta - Aluno do curso de bacharelado em Administração da Univerisdade Católica de Petrólis e Bolsista de Iniciação Científica do CNPq.
+Flávio Motta - Aluno do curso de bacharelado em Administração da Univerisdade Católica de Petrópolis e Bolsista de Iniciação Científica do CNPq.
 
 Rodolfo Nicolay - Professor do Mestrado Profissional em Gestão de Projetos em Engenharia da Universidade Católica de Petrópolis e Coordenador do grupo de pesquisa. 
 
-Matheus Alvim - Aluno do curso de bacharelado em Economia e pesquisador voluntário do grupo de pesquisa. 
+Matheus Alvim - Aluno do curso de bacharelado em Economia da Universidade Católica de Petrópolis e pesquisador voluntário do grupo de pesquisa. 
 
